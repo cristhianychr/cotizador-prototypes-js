@@ -6,7 +6,7 @@ El proyecto consiste en un cotizador dinámico que permite seleccionar diferente
 
 ## 🚀 Demo
 
-[Ver proyecto en GitHub Pages]
+[Ver proyecto en GitHub Pages](https://cristhianychr.github.io/cotizador-prototypes-js/)
 
 ## 📸 Vista previa
 
@@ -39,7 +39,7 @@ El proyecto consiste en un cotizador dinámico que permite seleccionar diferente
 - Prototypes.
 - Métodos personalizados.
 - Propiedades de objetos.
-- Encapsulación de lógica mediante objetos.
+- Encapsulación de lógica mediante objetos
 - Manipulación del DOM.
 - Event Listeners.
 - Funciones.
