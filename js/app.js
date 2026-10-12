@@ -41,7 +41,7 @@ Seguro.prototype.cotizarSeguro = function() {
        Si el seguro es completo se multiplica por un 50% más
     */
 
-    if (this.tipo = 'basico') {
+    if (this.tipo === 'basico') {
         cantidad *= 1.3;
     } else {
         cantidad *= 1.5;
